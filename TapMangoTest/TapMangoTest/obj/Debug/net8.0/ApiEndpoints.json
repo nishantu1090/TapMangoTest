@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "TapMangoTest.Controllers.MessagingController",
+    "Method": "CanSendMessage",
+    "RelativePath": "CanSendMessage/{account}/{phoneNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "account",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "phoneNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABA6255-9B5F-489F-8427-36329AE79CF5}|TapMangoTest\\TapMangoTest.csproj|c:\\users\\nisha\\onedrive\\desktop\\tapmangotest\\tapmangotest\\tapmangotest\\services\\messagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABA6255-9B5F-489F-8427-36329AE79CF5}|TapMangoTest\\TapMangoTest.csproj|solutionrelative:tapmangotest\\services\\messagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6BEF8F-B5F4-4263-A245-4320CB547EDC}|MessagingTest\\MessagingTest.csproj|c:\\users\\nisha\\onedrive\\desktop\\tapmangotest\\tapmangotest\\messagingtest\\messagingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6BEF8F-B5F4-4263-A245-4320CB547EDC}|MessagingTest\\MessagingTest.csproj|solutionrelative:messagingtest\\messagingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6BEF8F-B5F4-4263-A245-4320CB547EDC}|MessagingTest\\MessagingTest.csproj|c:\\users\\nisha\\onedrive\\desktop\\tapmangotest\\tapmangotest\\messagingtest\\messagingtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A6BEF8F-B5F4-4263-A245-4320CB547EDC}|MessagingTest\\MessagingTest.csproj|solutionrelative:messagingtest\\messagingtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABA6255-9B5F-489F-8427-36329AE79CF5}|TapMangoTest\\TapMangoTest.csproj|c:\\users\\nisha\\onedrive\\desktop\\tapmangotest\\tapmangotest\\tapmangotest\\contracts\\interfaces\\imessagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABA6255-9B5F-489F-8427-36329AE79CF5}|TapMangoTest\\TapMangoTest.csproj|solutionrelative:tapmangotest\\contracts\\interfaces\\imessagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABA6255-9B5F-489F-8427-36329AE79CF5}|TapMangoTest\\TapMangoTest.csproj|c:\\users\\nisha\\onedrive\\desktop\\tapmangotest\\tapmangotest\\tapmangotest\\controllers\\messagingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABA6255-9B5F-489F-8427-36329AE79CF5}|TapMangoTest\\TapMangoTest.csproj|solutionrelative:tapmangotest\\controllers\\messagingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABA6255-9B5F-489F-8427-36329AE79CF5}|TapMangoTest\\TapMangoTest.csproj|c:\\users\\nisha\\onedrive\\desktop\\tapmangotest\\tapmangotest\\tapmangotest\\tapmangotest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4ABA6255-9B5F-489F-8427-36329AE79CF5}|TapMangoTest\\TapMangoTest.csproj|solutionrelative:tapmangotest\\tapmangotest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABA6255-9B5F-489F-8427-36329AE79CF5}|TapMangoTest\\TapMangoTest.csproj|c:\\users\\nisha\\onedrive\\desktop\\tapmangotest\\tapmangotest\\tapmangotest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4ABA6255-9B5F-489F-8427-36329AE79CF5}|TapMangoTest\\TapMangoTest.csproj|solutionrelative:tapmangotest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABA6255-9B5F-489F-8427-36329AE79CF5}|TapMangoTest\\TapMangoTest.csproj|c:\\users\\nisha\\onedrive\\desktop\\tapmangotest\\tapmangotest\\tapmangotest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABA6255-9B5F-489F-8427-36329AE79CF5}|TapMangoTest\\TapMangoTest.csproj|solutionrelative:tapmangotest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABA6255-9B5F-489F-8427-36329AE79CF5}|TapMangoTest\\TapMangoTest.csproj|c:\\users\\nisha\\onedrive\\desktop\\tapmangotest\\tapmangotest\\tapmangotest\\contracts\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABA6255-9B5F-489F-8427-36329AE79CF5}|TapMangoTest\\TapMangoTest.csproj|solutionrelative:tapmangotest\\contracts\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 117,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessagingServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\MessagingTest\\MessagingServiceTests.cs",
+              "RelativeDocumentMoniker": "MessagingTest\\MessagingServiceTests.cs",
+              "ToolTip": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\MessagingTest\\MessagingServiceTests.cs",
+              "RelativeToolTip": "MessagingTest\\MessagingServiceTests.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwGkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:46:48.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessagingTest.csproj",
+              "DocumentMoniker": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\MessagingTest\\MessagingTest.csproj",
+              "RelativeDocumentMoniker": "MessagingTest\\MessagingTest.csproj",
+              "ToolTip": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\MessagingTest\\MessagingTest.csproj",
+              "RelativeToolTip": "MessagingTest\\MessagingTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T12:41:33.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TapMangoTest.csproj",
+              "DocumentMoniker": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\TapMangoTest\\TapMangoTest.csproj",
+              "RelativeDocumentMoniker": "TapMangoTest\\TapMangoTest.csproj",
+              "ToolTip": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\TapMangoTest\\TapMangoTest.csproj",
+              "RelativeToolTip": "TapMangoTest\\TapMangoTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T12:29:55.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\TapMangoTest\\appsettings.json",
+              "RelativeDocumentMoniker": "TapMangoTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\TapMangoTest\\appsettings.json",
+              "RelativeToolTip": "TapMangoTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T13:38:11.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\TapMangoTest\\Program.cs",
+              "RelativeDocumentMoniker": "TapMangoTest\\Program.cs",
+              "ToolTip": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\TapMangoTest\\Program.cs",
+              "RelativeToolTip": "TapMangoTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:37:15.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMessagingService.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\TapMangoTest\\Contracts\\Interfaces\\IMessagingService.cs",
+              "RelativeDocumentMoniker": "TapMangoTest\\Contracts\\Interfaces\\IMessagingService.cs",
+              "ToolTip": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\TapMangoTest\\Contracts\\Interfaces\\IMessagingService.cs",
+              "RelativeToolTip": "TapMangoTest\\Contracts\\Interfaces\\IMessagingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:36:49.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessagingController.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\TapMangoTest\\Controllers\\MessagingController.cs",
+              "RelativeDocumentMoniker": "TapMangoTest\\Controllers\\MessagingController.cs",
+              "ToolTip": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\TapMangoTest\\Controllers\\MessagingController.cs",
+              "RelativeToolTip": "TapMangoTest\\Controllers\\MessagingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:00:18.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessagingService.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\TapMangoTest\\Services\\MessagingService.cs",
+              "RelativeDocumentMoniker": "TapMangoTest\\Services\\MessagingService.cs",
+              "ToolTip": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\TapMangoTest\\Services\\MessagingService.cs",
+              "RelativeToolTip": "TapMangoTest\\Services\\MessagingService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:18:52.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\TapMangoTest\\Contracts\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "TapMangoTest\\Contracts\\Models\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\nisha\\OneDrive\\Desktop\\TapMangoTest\\TapMangoTest\\TapMangoTest\\Contracts\\Models\\AppSettings.cs",
+              "RelativeToolTip": "TapMangoTest\\Contracts\\Models\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:15:17.22Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

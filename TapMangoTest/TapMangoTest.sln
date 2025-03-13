@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapMangoTest", "TapMangoTest\TapMangoTest.csproj", "{4ABA6255-9B5F-489F-8427-36329AE79CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingTest", "MessagingTest\MessagingTest.csproj", "{1A6BEF8F-B5F4-4263-A245-4320CB547EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ABA6255-9B5F-489F-8427-36329AE79CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABA6255-9B5F-489F-8427-36329AE79CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABA6255-9B5F-489F-8427-36329AE79CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABA6255-9B5F-489F-8427-36329AE79CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A6BEF8F-B5F4-4263-A245-4320CB547EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6BEF8F-B5F4-4263-A245-4320CB547EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6BEF8F-B5F4-4263-A245-4320CB547EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6BEF8F-B5F4-4263-A245-4320CB547EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9148B0E1-4EEB-4D1B-AF26-CC331B0C35A5}
+	EndGlobalSection
+EndGlobal
